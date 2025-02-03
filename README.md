@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview  
 The **Light-Seeking Robot** is a simulation-based project developed using **ROS (Robot Operating System)** and **Gazebo**. The robot autonomously navigates towards a light source using sensors while avoiding obstacles. This project explores fundamental robotics concepts such as **sensor integration, motor control, path planning, and decision-making logic** within a simulated environment.  
+![image](https://github.com/user-attachments/assets/50cd1c92-accd-4fd7-a127-2f042e980444)
 
 ---
 
