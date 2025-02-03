@@ -33,7 +33,7 @@ Many existing solutions are **complex and expensive**, making it necessary to de
 ### **📥 Installation Steps**  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/light-seeking-robot.git
+git clone https://github.com/TinsaeTadesse17/Light-Seeking-Robot.git
 
 # Navigate to the workspace
 cd light-seeking-robot
