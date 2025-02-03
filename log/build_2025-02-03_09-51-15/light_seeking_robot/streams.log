@@ -1,0 +1,24 @@
+[1.665s] Invoking command in '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/light_seeking_robot build --build-base /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/build install --record /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/install.log --single-version-externally-managed install_data
+[2.257s] running egg_info
+[2.297s] writing build/light_seeking_robot/light_seeking_robot.egg-info/PKG-INFO
+[2.297s] writing dependency_links to build/light_seeking_robot/light_seeking_robot.egg-info/dependency_links.txt
+[2.297s] writing entry points to build/light_seeking_robot/light_seeking_robot.egg-info/entry_points.txt
+[2.298s] writing requirements to build/light_seeking_robot/light_seeking_robot.egg-info/requires.txt
+[2.298s] writing top-level names to build/light_seeking_robot/light_seeking_robot.egg-info/top_level.txt
+[2.388s] reading manifest file 'build/light_seeking_robot/light_seeking_robot.egg-info/SOURCES.txt'
+[2.389s] writing manifest file 'build/light_seeking_robot/light_seeking_robot.egg-info/SOURCES.txt'
+[2.389s] running build
+[2.390s] running build_py
+[2.390s] running install
+[2.402s] running install_lib
+[2.449s] running install_data
+[2.449s] copying launch/light_seeking.launch.py -> /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/share/light_seeking_robot/launch
+[2.450s] copying worlds/light_seeking_world.sdf -> /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/share/light_seeking_robot/worlds
+[2.450s] running install_egg_info
+[2.496s] removing '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages/light_seeking_robot-0.0.0-py3.12.egg-info' (and everything under it)
+[2.497s] Copying build/light_seeking_robot/light_seeking_robot.egg-info to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages/light_seeking_robot-0.0.0-py3.12.egg-info
+[2.498s] running install_scripts
+[2.796s] Installing light_seeking_node script to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/light_seeking_robot
+[2.796s] Installing obstacle_avoidance script to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/light_seeking_robot
+[2.797s] writing list of installed files to '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/install.log'
+[2.861s] Invoked command in '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/light_seeking_robot build --build-base /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/build install --record /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/install.log --single-version-externally-managed install_data

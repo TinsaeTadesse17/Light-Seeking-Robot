@@ -1,0 +1,3 @@
+[console_scripts]
+light_seeking_node = light_seeking_robot.light_seeking_node:main
+obstacle_avoidance = light_seeking_robot.obstacle_avoidance_node:main

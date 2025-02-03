@@ -1,0 +1,22 @@
+running egg_info
+writing build/light_seeking_robot/light_seeking_robot.egg-info/PKG-INFO
+writing dependency_links to build/light_seeking_robot/light_seeking_robot.egg-info/dependency_links.txt
+writing entry points to build/light_seeking_robot/light_seeking_robot.egg-info/entry_points.txt
+writing requirements to build/light_seeking_robot/light_seeking_robot.egg-info/requires.txt
+writing top-level names to build/light_seeking_robot/light_seeking_robot.egg-info/top_level.txt
+reading manifest file 'build/light_seeking_robot/light_seeking_robot.egg-info/SOURCES.txt'
+writing manifest file 'build/light_seeking_robot/light_seeking_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/light_seeking.launch.py -> /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/share/light_seeking_robot/launch
+copying worlds/light_seeking_world.sdf -> /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/share/light_seeking_robot/worlds
+running install_egg_info
+removing '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages/light_seeking_robot-0.0.0-py3.12.egg-info' (and everything under it)
+Copying build/light_seeking_robot/light_seeking_robot.egg-info to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/python3.12/site-packages/light_seeking_robot-0.0.0-py3.12.egg-info
+running install_scripts
+Installing light_seeking_node script to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/light_seeking_robot
+Installing obstacle_avoidance script to /home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/install/light_seeking_robot/lib/light_seeking_robot
+writing list of installed files to '/home/sura-itana/gazebo_practice/version2.../light_seeking_robot_ws/build/light_seeking_robot/install.log'

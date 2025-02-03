@@ -1,0 +1,38 @@
+topics:
+  # Odometry bridge
+  - topic: /odom
+    gz_topic: /model/light_seeking_robot/odometry
+    ros_type: nav_msgs/msg/Odometry
+    gz_type: gz.msgs.Odometry
+    direction: GZ_TO_ROS
+    qos: 1  # RELIABLE
+
+  # LiDAR bridge
+  - topic: /lidar/scan
+    gz_topic: /lidar
+    ros_type: sensor_msgs/msg/LaserScan
+    gz_type: gz.msgs.LaserScan
+    direction: GZ_TO_ROS
+    qos: 1
+
+  # TF bridge
+  - topic: /tf
+    gz_topic: /model/light_seeking_robot/tf
+    ros_type: tf2_msgs/msg/TFMessage
+    gz_type: gz.msgs.Pose_V
+    direction: GZ_TO_ROS
+    qos: 1
+
+  # Clock synchronization
+  - topic: /clock
+    ros_type: rosgraph_msgs/msg/Clock
+    gz_type: gz.msgs.Clock
+    direction: GZ_TO_ROS
+    qos: 1
+
+  # Velocity command bridge
+  - topic: /cmd_vel
+    ros_type: geometry_msgs/msg/Twist
+    gz_type: gz.msgs.Twist
+    direction: ROS_TO_GZ  
+    qos: 1
